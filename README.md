@@ -1,5 +1,5 @@
 # Data-analysis-with-Python-project
-cars details :
+CARS DETAILS :
 Conducted comprehensive analysis of car dataset to uncover patterns in pricing, mileage, fuel type, and transmission.
 Cleaned and prepared raw data, handled missing values, and performed exploratory data analysis (EDA) using Python (Pandas, Matplotlib, Seaborn).
 Built visualizations and correlation insights to identify factors that most influence car pricing and customer buying preferences.
